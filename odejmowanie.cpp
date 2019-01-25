@@ -1,7 +1,7 @@
  int dodawanie (int a, int b, &wynik){
 
 
-	wynik=liczba_a-liczba_b;
+	wynik=a-b;
 
 
 }
