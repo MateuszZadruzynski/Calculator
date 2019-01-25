@@ -1,11 +1,7 @@
-#include <cstdio>
-#include <iostream>
+ int dodawanie (int liczba_a, int liczba_b, &wynik){
 
-using namespace std;
 
-int main(){
+	wynik=liczba_a-liczba_b;
 
-cout<<"siema";
 
-return 0;
 }
