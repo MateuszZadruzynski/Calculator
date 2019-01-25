@@ -1,4 +1,4 @@
- int dodawanie (int liczba_a, int liczba_b, &wynik){
+ int dodawanie (int a, int b, &wynik){
 
 
 	wynik=liczba_a-liczba_b;
