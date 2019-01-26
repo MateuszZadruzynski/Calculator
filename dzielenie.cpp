@@ -1,6 +1,3 @@
-
-int dziele
-
-dziele = a/b;
-
-cout << "Dzielenie liczb to " << dzile<
+double odejmowanie(double a, double b){
+return a-b;
+}
